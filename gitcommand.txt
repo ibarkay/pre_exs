@@ -1,0 +1,11 @@
+git init
+ 1130  git push -u origin main
+ 1131  git push -u origin 
+ 1132  git add .
+ 1133  git push -u origin master
+ 1134  git commit -m "initial commit"\n
+ 1135  git push -u origin master
+ 1136  code .
+ 1137  git add .
+ 1138  git commit -m "initial commit"\n
+ 1139  git push -u origin master
